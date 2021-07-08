@@ -1,4 +1,5 @@
 // Import statements
+import { App, ExpressReceiver } from '@slack/bolt'
 import * as dotenv from 'dotenv'
 dotenv.config();
 
